@@ -26,4 +26,5 @@ jobs:
           path: pdfs
       - uses: softprops/action-gh-release@v1
         with:
-          files: pdfs/docs.zip
+          tag_name: github.ref
+          files: pdfs

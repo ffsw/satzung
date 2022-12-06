@@ -5,7 +5,7 @@ name: Docs to PDF
 on:
   push:
     branches:
-      - testbuild
+      - actiontest
       - master
     # Paths can be used to only trigger actions when you have edited certain files, such as a file within the /docs directory
 
@@ -24,3 +24,6 @@ jobs:
         with:
           name: docs
           path: pdfs
+      - uses: softprops/action-gh-release@v1
+        with:
+          files: pdfs/docs.zip

@@ -93,7 +93,7 @@ Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen 
 
 1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern: dem Vorstandsvorsitzenden, dem stellvertretendem Vorstand und dem Kassenwart. <br>
 Auf Wunsch der Mitgliederversammlung können noch ein oder mehrere Beisitzer in den Vorstand gewählt werden.
-2. Vorstand im Sinne des §26 BGB sind Vorstandsvorsitzender, stellvertretender Vorsitzender sowie die gewählten Beisitzer. Der Verein wird durch mindestens zwei Vorstandsmitglieder nach außen vertreten.
+2. Vorstand im Sinne des §26 BGB sind Vorstandsvorsitzender, stellvertretender Vorsitzender, Kassenwart sowie die gewählten Beisitzer. Der Verein wird durch mindestens zwei Vorstandsmitglieder nach außen vertreten.
 3. Vorstandsmitglieder können jederzeit von ihrem Amt zurücktreten.
 4. Bei Rücktritt oder andauernder Ausübungsunfähigkeit von Vorstandsvorsitzendem, stellvertretendem Vorsitzenden oder Beisitzern ist der gesamte Vorstand neu zu wählen. <br>
 Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.

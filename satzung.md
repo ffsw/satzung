@@ -104,6 +104,7 @@ Auf Wunsch der Mitgliederversammlung können noch ein oder mehrere Beisitzer in 
 4. Bei Rücktritt oder andauernder Ausübungsunfähigkeit von Vorstandsvorsitzendem, stellvertretendem Vorsitzenden oder Beisitzern ist der gesamte Vorstand neu zu wählen. <br>
 Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen Wahrnehmung seiner Aufgaben verpflichtet.
 5. Die Amtsdauer der Vorstandsmitglieder beträgt ein Jahr. Sie werden von der Mitgliederversammlung aus den ordentlichen Mitgliedern des Vereins gewählt. Es werden nacheinander Vorstandsvorsitzender, stellvertretender Vorsitzender sowie die Beisitzer gewählt.<br>
+Wird innerhalb der Frist kein neuer Vorstand gewählt, bleibt der bisherige Vorstand kommissarisch mit der Hauptaufgabe im Amt, eine Mitgliederversammlung zur Vorstandswahl durchzuführen, bis ein neuer Vorstand gewählt wurde.<br>
 Eine Wiederwahl ist beliebig oft zulässig.
 6. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 7. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.

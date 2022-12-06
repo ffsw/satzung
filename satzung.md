@@ -120,7 +120,7 @@ Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt
 
 3. Der Grundsatz der Vermögensbindung ist bei der Fassung von Beschlüssen über die künftige Verwendung des Vereinsvermögens zwingend zu erfüllen.
 
-4. Bei der Auflösung oder Aufhebung der Körperschaft fällt das Vermögen der Körperschaft an den „Förderverein Freie Netzwerke e.V.“, der es unmittelbar und ausschließlich zu gemeinnützigen Zwecken zu verwenden hat.
+4. Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke, fällt das Vermögen der Körperschaft an den „Förderverein Freie Netzwerke e.V.“, der es unmittelbar und ausschließlich zu gemeinnützigen Zwecken zu verwenden hat.
 
 ## XI – Schriftform
 

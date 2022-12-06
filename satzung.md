@@ -107,10 +107,7 @@ Bis zur Wahl eines neuen Vorstands ist der bisherige Vorstand zur bestmöglichen
 Eine Wiederwahl ist beliebig oft zulässig.
 6. Der Vorstand ist Dienstvorgesetzter aller vom Verein angestellten Mitarbeiter. Er kann diese Aufgabe einem Vorstandsmitglied übertragen.
 7. Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig. Sie haben Anspruch auf Erstattung notwendiger Auslagen, deren Rahmen von der Geschäftsordnung festgelegt wird.
-8. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer schriftlich gemäß XI einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind. Der Vorstand
-kann Beschlüsse auch schriftlich, telefonisch, per E-Mail, in einer Videokonferenz oder in
-einer gemischten Sitzung aus Anwesenden und Videokonferenz/anderen Medien/Telefon fassen, wenn
-kein Mitglied des Vorstands diesem Verfahren widerspricht. Die Beschlüsse der Vorstandssitzung sind schriftlich zu protokollieren.
+8. Der Vorstand tritt nach Bedarf zusammen. Die Vorstandssitzungen werden vom Schriftführer schriftlich gemäß XI einberufen. Der Vorstand ist beschlussfähig, wenn mindestens zwei Drittel der Vorstandsmitglieder anwesend sind. Der Vorstand kann Beschlüsse auch schriftlich, telefonisch, per E-Mail, in einer Videokonferenz oder in einer gemischten Sitzung aus Anwesenden und Videokonferenz/anderen Medien/Telefon fassen, wenn kein Mitglied des Vorstands diesem Verfahren widerspricht. Die Beschlüsse der Vorstandssitzung sind schriftlich zu protokollieren.
 9. Jedes Vorstandsmitglied hat bei Abstimmungen des Vorstands eine Stimme.
 Bei Abstimmungen ist eine Mehrheit von zwei Dritteln der abgegebenen gültigen Stimmen nötig.
 

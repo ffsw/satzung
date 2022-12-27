@@ -1,4 +1,5 @@
-# Satzung Freifunk Südwest
+# Satzung Freifunk Südwest e.V.
+<p style="text-align: center;">(Stand: Entwurf 27.12.2022)</p>
 
 ## I – Name und Sitz des Vereins, Geschäftsjahr
 

@@ -81,19 +81,16 @@ Auf Wunsch eines ordentlichen Mitglieds ist geheim abzustimmen.
 4. Zur Fassung eines Beschlusses ist eine einfache Mehrheit der abgegebenen Stimmen notwendig. Ausgenommen sind die in IX und X geregelten Angelegenheiten.
 5. Eine ordentliche Mitgliederversammlung, bezeichnet als Jahreshauptversammlung, wird einmal jährlich einberufen. Ihre Tagesordnung umfasst unter anderem den Rechenschaftsbericht des Vorstands über die Vereinstätigkeit sowie den Rechenschaftsbericht des Schatzmeisters für das vorherige Geschäftsjahr.
 6. Die Mitgliederversammlung kann auch im Wege der elektronischen Kommunikation (z.B. Videokonferenz) oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/an-
-deren Medien/Telefon durchgeführt werden. Ob die Mitgliederversammlung in einer Sitzung oder im
-Wege der elektronischen Kommunikation oder in einer gemischten Versammlung aus Anwesenden und
-Videokonferenz/anderen Medien/Telefon durchgeführt wird, entscheidet der Vorstand.
+deren Medien/Telefon durchgeführt werden. Ob die Mitgliederversammlung in einer Sitzung oder im Wege der elektronischen Kommunikation oder in einer gemischten Versammlung aus Anwesenden und Videokonferenz/anderen Medien/Telefon durchgeführt wird (Hybrid), entscheidet der Vorstand. <br>
 7. Eine außerordentliche Mitgliederversammlung kann jederzeit einberufen werden, wenn mindestens 10% der ordentlichen Mitglieder oder der Vorstand dies jeweils gemäß XI unter Angabe eines Grunds beantragen.<br>
 Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen sein; sie werden auf die Einladung übernommen.<br>
-Die Mitgliederversammlung ist als Präsenzversammlung
-durchzuführen, soweit dies mit dem Verlangen beantragt wird.
 8. Dem Vorstand obliegt zu allen Mitgliederversammlungen die Festsetzung eines Termins und die rechtzeitige Einladung aller Mitglieder bis spätestens zwei Wochen (14 Tage) vor dem von ihm festgelegten Termin per E-Mail an die dem Vorstand zuletzt bekannte Anschrift. Bei von den Mitgliedern beantragten Mitgliederversammlungen darf der Termin nicht mehr als acht Wochen (56 Tage) nach dem Eingang des Antrags beim Vorstand liegen.
 9. Der Vorstand kann die Einladungen auf schriftlichem Weg gemäß XI zustellen.
 10. In der Einladung werden die Tagesordnungspunkte sowie weitere nötige Informationen bekannt gegeben. Die Mitgliederversammlung kann per Beschluss die Tagesordnung verändern.
-11. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu unterzeichnen ist. Das Protokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
-12. Der Vorstandsvorsitzende ist Versammlungsleiter der Mitgliederversammlung. Die Mitgliederversammlung kann durch Beschluss einen anderen Versammlungsleiter oder Schriftführer bestimmen.
-13. Erreicht eine Mitgliederversammlung nicht die Beschlussfähigkeit, ist die darauf folgende ordentlich anberaumte Mitgliederversammlung beschlussfähig, wenn mindestens sieben Mitglieder anwesend sind.
+11. Der Vorstand stellt bei digitaler/hybrider Durchführung einen personalisierten Zugang den Mitgliedern zur Verfügung.
+12. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und vom Schriftführer zu unterzeichnen ist. Das Protokoll ist innerhalb von 14 Tagen allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+13. Der Vorstandsvorsitzende ist Versammlungsleiter der Mitgliederversammlung. Die Mitgliederversammlung kann durch Beschluss einen anderen Versammlungsleiter oder Schriftführer bestimmen.
+14. Erreicht eine Mitgliederversammlung nicht die Beschlussfähigkeit, ist die darauf folgende ordentlich anberaumte Mitgliederversammlung beschlussfähig, wenn mindestens sieben Mitglieder anwesend sind.
 
 ## VII – Vorstand
 
@@ -135,5 +132,5 @@ Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt
 
 Die Geschäftsordnung bestimmt Anforderungen, Zustellungswege und Zuordnung derartiger Dokumente.
 
-26.07.2021, Neustadt an der Weinstraße
+XX.XX.XX, Neustadt an der Weinstraße
 

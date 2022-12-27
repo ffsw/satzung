@@ -92,7 +92,7 @@ Dem angegebenen Grund müssen die gewünschten Tagesordnungspunkte zu entnehmen 
 13. Der Vorstandsvorsitzende ist Versammlungsleiter der Mitgliederversammlung. Die Mitgliederversammlung kann durch Beschluss einen anderen Versammlungsleiter oder Schriftführer bestimmen.
 14. Erreicht eine Mitgliederversammlung nicht die Beschlussfähigkeit, ist die darauf folgende ordentlich anberaumte Mitgliederversammlung beschlussfähig, wenn mindestens sieben Mitglieder anwesend sind.
 
-## VII – Vorstand
+## VIII – Vorstand
 
 1. Der Vorstand besteht aus mindestens drei ordentlichen Mitgliedern: dem Vorstandsvorsitzenden, dem stellvertretendem Vorstand und dem Kassenwart. <br>
 Auf Wunsch der Mitgliederversammlung können noch ein oder mehrere Beisitzer in den Vorstand gewählt werden.

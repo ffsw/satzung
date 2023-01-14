@@ -1,5 +1,5 @@
 # Satzung Freifunk Südwest e.V.
-<p style="text-align: center;">(Stand: Entwurf 27.12.2022)</p>
+<p style="text-align: center;">14.01.2023</p>
 
 ## I – Name und Sitz des Vereins, Geschäftsjahr
 
@@ -129,9 +129,8 @@ Diese Satzungsänderungen müssen der nächsten Mitgliederversammlung mitgeteilt
 
 ## XI – Schriftform
 
-1. Schriftliche Erklärungen im Sinne dieser Satzung können auch elektronische Dokumente sein.
-
+1. Schriftliche Erklärungen im Sinne dieser Satzung können auch elektronische Dokumente sein.<br>
 Die Geschäftsordnung bestimmt Anforderungen, Zustellungswege und Zuordnung derartiger Dokumente.
 
-XX.XX.XX, Neustadt an der Weinstraße
+14.01.23, Landau in der Pfalz
 
